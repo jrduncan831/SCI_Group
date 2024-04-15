@@ -1,11 +1,14 @@
 # SCI Group meeting schedule 
 
-* October 23rd, Amit, DIVE project 
-* October 30th, ML tutorial prep, plan out schedule for rest of year  
-* November 6th, MEETING CANCELED FOR ML TUTORIAL
-* November 13th, MEETING CANCELED FOR SC CONFERENCE 
-* November 20th, Juliana, paper related to SCIPE project 
-* November 27th, Sikan, SCIPE or MKOR
-* December 4th, Mingkai, TACC GPT 
-* December 11th, Amit, Word embeddings and BERT
-* December 18th, Juliana, TBD  -- possibly cancel meeting
+* April 22 - Vlad's Talk
+* April 29 - Plan out future SCI meetings; Plan for tutorial
+* May 6 - TBD
+* May 13 - TBD
+* May 20 - Day before ML tutorial 
+* May 27 - TBD
+* June 3 - TBD
+* June 10 - TBD
+
+# Upcoming SCI Events
+* May 21st - ML tutorial 
+* July 15-19 - ML Summer institute
