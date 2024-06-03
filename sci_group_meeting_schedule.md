@@ -1,14 +1,11 @@
 # SCI Group meeting schedule 
 
-* April 22 - Vlad's Talk
-* April 29 - Plan out future SCI meetings; Plan for tutorial
-* May 6 - TBD
-* May 13 - TBD
-* May 20 - Day before ML tutorial 
-* May 27 - TBD
-* June 3 - TBD
-* June 10 - TBD
+* June 10 - Niall Demo Llama
+* June 17 - Amit intro to reinforcment learning (tenative)
+* June 24 - TBD
+* July 1 - TBD
+* July 8 - Discuss next weeks ML institute
+* July 15 - NO MEETING (ML institute)
 
 # Upcoming SCI Events
-* May 21st - ML tutorial 
 * July 15-19 - ML Summer institute
