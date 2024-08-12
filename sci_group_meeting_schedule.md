@@ -1,11 +1,11 @@
 # SCI Group meeting schedule 
 
-* June 10 - Niall Demo Llama
-* June 17 - Sikan and Juliana go over multigpu training tutorial
-* June 24 - Amit: Intro to reinforcment learning (tenative)
-* July 1 - TBD
-* July 8 - Discuss next weeks ML institute
-* July 15 - NO MEETING (ML institute)
+* August 12 - Juliana - Section I-III [Review Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10433480&tag=1)
+* August 19 - Amit - Section V [Review Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10433480&tag=1)
+* August 26 - Gabriel - Transfomers and Dynamical Neural Networks
+* Septmber 2 - Labor Day 
+* September 9 - Sikan - Remainder of [Review Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10433480&tag=1)
+* September 16 - Juliana - Evaluating LLM or other interesting topic that comes out of meetings 
 
 # Upcoming SCI Events
-* July 15-19 - ML Summer institute
+* September 23-25 TACCSTER
