@@ -4,7 +4,7 @@
 * August 19 - Amit - Section V [Review Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10433480&tag=1)
 * August 26 - Gabriel - Transfomers and Dynamical Neural Networks
 * Septmber 2 - Labor Day 
-* September 9 - Sikan - Remainder of [Review Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10433480&tag=1)
+* September 9 - Sikan - [KANs](https://arxiv.org/pdf/2404.19756) 
 * September 16 - Juliana - Evaluating LLM or other interesting topic that comes out of meetings 
 
 # Upcoming SCI Events
