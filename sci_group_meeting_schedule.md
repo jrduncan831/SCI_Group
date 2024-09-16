@@ -6,13 +6,15 @@
 * Septmber 2 - Labor Day 
 * September 9 - Sikan - [KANs](https://arxiv.org/pdf/2404.19756) 
 * September 16 - Juliana - Fine tuning vs Prompting [Review article for hard prompting](https://arxiv.org/pdf/2406.06608v1) [LoRA](https://arxiv.org/abs/2106.09685)[qLoRA](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)
-* September 23 - WEEK of TACCSTER (individual updates)
-* September 30 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
-* October 7 - Gabriel - Dynamic Neural Networks
-* October 14 - Sikan -
-* October 21 - Juliana - Evaluating LLMs
-* October 28 - Amit - 
+* September 23 - WEEK of TACCSTER (individual updates, coffee?)
+* September 30 - Juliana - Fine tuning vs Prompting [Review article for hard prompting](https://arxiv.org/pdf/2406.06608v1) [LoRA](https://arxiv.org/abs/2106.09685)[qLoRA](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)
+* October 7 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
+* October 14 - Gabriel - Dynamic Neural Networks
+* October 21 - Sikan -
+* October 28 - Week of Fall ML tutorial -- preparation meeting
+* November 4 - Juliana - 
 * 
 
 # Upcoming SCI Events
 * September 23-25 TACCSTER
+* Fall ML tutorial 
