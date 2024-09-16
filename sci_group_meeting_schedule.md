@@ -6,7 +6,7 @@
 * Septmber 2 - Labor Day 
 * September 9 - Sikan - [KANs](https://arxiv.org/pdf/2404.19756) 
 * September 16 - Fall ML tutorial planning
-* September 23 - WEEK of TACCSTER (individual updates, coffee?)
+* September 23 - WEEK of TACCSTER Meet at [Turnstile](https://turnstilebrews.com/austin-turnstile-coffee-beer-cocktails-and-burgers-food-menu)
 * September 30 - Juliana - Fine tuning vs Prompting [Review article for hard prompting](https://arxiv.org/pdf/2406.06608v1) [LoRA](https://arxiv.org/abs/2106.09685)[qLoRA](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)
 * October 7 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
 * October 14 - Gabriel - Dynamic Neural Networks
