@@ -10,13 +10,13 @@
 * September 30 - CANCELLED
 * October 7 - Juliana - Fine tuning vs Prompting [Review article for hard prompting](https://arxiv.org/pdf/2406.06608v1) [LoRA](https://arxiv.org/abs/2106.09685)[qLoRA](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)
 * October 14 - Gabriel - LLM-based agents and goal decomposition
-* October 21 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
+* October 21 - Sikan - Advanced LoRA
 * October 28 - Week of Fall ML tutorial -- preparation meeting
-* November 4 - Sikan - TBD
+* November 4 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
 * November 11 - Juliana TBD
 * November 18 - Gabriel TBD
 * November 25 - CANCELLED -- Week of Thanksgiving
-* December 2 - Amit
+* December 2 - Sikan TBD
 
 # Upcoming SCI Events
 * September 23-25 TACCSTER
