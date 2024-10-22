@@ -12,11 +12,13 @@
 * October 14 - Gabriel - LLM-based agents and goal decomposition [Solving Long Horizon Tasks](https://arxiv.org/abs/2305.17144) [Multi-Agent Simulations](https://arxiv.org/abs/2304.03442) [Review Article](https://arxiv.org/abs/2309.07864)
 * October 21 - Sikan - Advanced LoRA
 * October 28 - Week of Fall ML tutorial -- preparation meeting
-* November 4 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
-* November 11 - Juliana TBD
-* November 18 - Gabriel TBD
+* November 4 - Round the room introductions 
+* November 11 - Sikan - Advanced LoRA
+* November 11 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
+* November 18 - Juliana TBD
 * November 25 - CANCELLED -- Week of Thanksgiving
-* December 2 - Sikan TBD
+* December 2 - Gabriel TBD
+* December 9 - Luke TBD
 
 # Upcoming SCI Events
 * September 23-25 TACCSTER
