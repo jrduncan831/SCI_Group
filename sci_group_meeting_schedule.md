@@ -10,7 +10,7 @@
 * September 30 - CANCELLED
 * October 7 - Juliana - Fine tuning vs Prompting [Review article for hard prompting](https://arxiv.org/pdf/2406.06608v1) [LoRA](https://arxiv.org/abs/2106.09685)[qLoRA](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)
 * October 14 - Gabriel - LLM-based agents and goal decomposition [Solving Long Horizon Tasks](https://arxiv.org/abs/2305.17144) [Multi-Agent Simulations](https://arxiv.org/abs/2304.03442) [Review Article](https://arxiv.org/abs/2309.07864)
-* October 21 - Sikan - Advanced LoRA
+* October 21 - Sikan - CANCELLED
 * October 28 - Week of Fall ML tutorial -- preparation meeting
 * November 4 - Round the room introductions 
 * November 11 - Sikan - Advanced LoRA
