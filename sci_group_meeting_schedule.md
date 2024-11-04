@@ -14,11 +14,11 @@
 * October 28 - Week of Fall ML tutorial -- preparation meeting
 * November 4 - Round the room introductions 
 * November 11 - Sikan - Advanced LoRA
-* November 11 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
-* November 18 - Juliana TBD
+* November 18 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
 * November 25 - CANCELLED -- Week of Thanksgiving
-* December 2 - Gabriel TBD
-* December 9 - Luke TBD
+* December 2 - Juliana TBD 
+* December 9 - Gabriel TBD
+* December 16 - Luke TBD (or skip for Christmas?) 
 
 # Upcoming SCI Events
 * September 23-25 TACCSTER
