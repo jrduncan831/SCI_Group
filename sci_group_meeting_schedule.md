@@ -14,8 +14,8 @@
 * October 28 - Week of Fall ML tutorial -- preparation meeting
 * November 4 - Round the room introductions 
 * November 11 - Sikan - Advanced LoRA
-* November 18 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
-* November 25 - CANCELLED -- Week of Thanksgiving
+* November 18 - CANCELLED -- Week of Supercomputing
+* November 25 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
 * December 2 - Juliana TBD 
 * December 9 - Gabriel TBD
 * December 16 - Luke TBD (or skip for Christmas?) 
