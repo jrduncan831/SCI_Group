@@ -16,9 +16,9 @@
 * November 11 - Sikan - Advanced LoRA
 * November 18 - CANCELLED -- Week of Supercomputing
 * November 25 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
-* December 2 - Juliana TBD 
-* December 9 - Gabriel TBD
-* December 16 - Luke TBD (or skip for Christmas?) 
+* December 2 - Luke TBD 
+* December 9 - Juliana TBD
+* December 16 - Gabriel TBD (or skip for Christmas?) 
 
 # Upcoming SCI Events
 * September 23-25 TACCSTER
