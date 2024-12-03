@@ -1,5 +1,28 @@
 # SCI Group meeting schedule 
 
+## 2024
+* December 2 - Luke TBD 
+* December 9 - Juliana [Atom Centered Neural Networks](https://journals-aps-org.ezproxy.lib.utexas.edu/prl/pdf/10.1103/PhysRevLett.98.146401) [Review Article](https://pubs.acs.org/doi/epdf/10.1021/acs.chemrev.0c00868?ref=article_openPDF)
+* December 16 - Skip for Christmas Holiday
+
+## 2025 
+* January 6 - Gabriel TBD
+* January 13 - Sikan TBD
+* January 20 - MLK Holiday
+* January 27 - Amit TBD
+* February 3 - Luke TBD
+* February 10 - Juliana TBD
+
+# Upcoming SCI Events
+* March TBD Spring ML Tutorial
+* May 5-9 CosmicAI Bootcamp
+* July TBD Summer ML Institute
+* October TBD Fall ML Tutorial 
+
+# Archived Talks
+
+## 2024
+
 * August 12 - Juliana - Section I-III [Review Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10433480&tag=1)
 * August 19 - Amit - Section V [Review Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10433480&tag=1)
 * August 26 - Gabriel - Transfomers [Seminal Paper](https://arxiv.org/abs/1706.03762) [Paper w/ code](https://nlp.seas.harvard.edu/annotated-transformer/#part-1-model-architecture) [Good Visual Explanation](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452) [Transformers Review](https://doi.org/10.1016/j.aiopen.2022.10.001) [BERT](https://arxiv.org/abs/1810.04805) [GPT-3](https://arxiv.org/abs/2005.14165) [GPT-4](https://arxiv.org/abs/2303.08774) [Llama-3](https://arxiv.org/abs/2407.21783)
@@ -16,10 +39,3 @@
 * November 11 - Sikan - Advanced LoRA
 * November 18 - CANCELLED -- Week of Supercomputing
 * November 25 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
-* December 2 - Luke TBD 
-* December 9 - Juliana TBD
-* December 16 - Gabriel TBD (or skip for Christmas?) 
-
-# Upcoming SCI Events
-* September 23-25 TACCSTER
-* October 29-30 Fall ML Tutorial 
