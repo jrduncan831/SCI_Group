@@ -36,6 +36,6 @@
 * October 21 - Sikan - CANCELLED
 * October 28 - Week of Fall ML tutorial -- preparation meeting
 * November 4 - Round the room introductions 
-* November 11 - Sikan - Advanced LoRA
+* November 11 - Sikan - Advanced LoRA [LoRA](https://arxiv.org/pdf/2106.09685) [QLoRA](https://arxiv.org/pdf/2305.14314) [GaLore](https://arxiv.org/pdf/2403.03507)
 * November 18 - CANCELLED -- Week of Supercomputing
 * November 25 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
