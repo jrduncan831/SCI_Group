@@ -1,7 +1,7 @@
 # SCI Group meeting schedule 
 
 ## 2024
-* December 2 - Luke TBD 
+* December 2 - Luke [Neural ODEs](https://arxiv.org/pdf/1806.07366) 
 * December 9 - Juliana [Atom Centered Neural Networks](https://journals-aps-org.ezproxy.lib.utexas.edu/prl/pdf/10.1103/PhysRevLett.98.146401) [Review Article](https://pubs.acs.org/doi/epdf/10.1021/acs.chemrev.0c00868?ref=article_openPDF)
 * December 16 - Skip for Christmas Holiday
 
