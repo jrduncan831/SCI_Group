@@ -14,8 +14,8 @@
 * February 10 - Juliana TBD
 
 # Upcoming SCI Events
-* March TBD Spring ML Tutorial
-* May 5-9 CosmicAI Bootcamp
+* March 5-6 Spring ML Tutorial (Virtual)
+* May 5-9 CosmicAI Bootcamp (In person)
 * July TBD Summer ML Institute
 * October TBD Fall ML Tutorial 
 
