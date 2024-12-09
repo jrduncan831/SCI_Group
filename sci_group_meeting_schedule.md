@@ -9,7 +9,7 @@
 * January 6 - Gabriel TBD
 * January 13 - Sikan TBD
 * January 20 - MLK Holiday
-* January 27 - Amit TBD
+* January 27 - Amit Overview of LLM Serving Frameworks [vLLM](https://arxiv.org/abs/2309.06180), [ServerLessLLM](https://arxiv.org/abs/2401.14351)
 * February 3 - Luke TBD
 * February 10 - Juliana TBD
 
