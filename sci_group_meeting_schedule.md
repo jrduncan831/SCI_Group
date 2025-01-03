@@ -13,7 +13,7 @@
 # Upcoming SCI Events
 * March 5-6 Spring ML Tutorial (Virtual)
 * May 5-9 CosmicAI Bootcamp (In person)
-* July TBD Summer ML Institute
+* July 21-25 Summer ML Institute (In person)
 * October TBD Fall ML Tutorial 
 
 # Archived Talks
