@@ -1,17 +1,14 @@
 # SCI Group meeting schedule 
 
-## 2024
-* December 2 - Luke [Neural ODEs](https://arxiv.org/pdf/1806.07366) 
-* December 9 - Juliana [Atom Centered Neural Networks](https://journals-aps-org.ezproxy.lib.utexas.edu/prl/pdf/10.1103/PhysRevLett.98.146401) [Review Article](https://pubs.acs.org/doi/epdf/10.1021/acs.chemrev.0c00868?ref=article_openPDF)
-* December 16 - Skip for Christmas Holiday
-
 ## 2025 
 * January 6 - Gabriel - Fine-Tuning Beyond Weights via [Multi-Agent System Tuning](https://arxiv.org/html/2402.16823v3), [Single Agent Tuning](https://arxiv.org/abs/2305.10601), [Prompt Tuning](https://arxiv.org/abs/2309.03409)
 * January 13 - Sikan TBD
 * January 20 - MLK Holiday
 * January 27 - Amit Overview of LLM Serving Frameworks [vLLM](https://arxiv.org/abs/2309.06180), [ServerLessLLM](https://arxiv.org/abs/2401.14351)
-* February 3 - Luke TBD
-* February 10 - Juliana TBD
+* February 3 - ML tutorial preparation meeting TBD
+* February 10 - Luke TBD
+* February 17 - Juliana TBD
+* February 24 - Gabriel TBD
 
 # Upcoming SCI Events
 * March 5-6 Spring ML Tutorial (Virtual)
@@ -39,3 +36,6 @@
 * November 11 - Sikan - Advanced LoRA [LoRA](https://arxiv.org/pdf/2106.09685) [QLoRA](https://arxiv.org/pdf/2305.14314) [GaLore](https://arxiv.org/pdf/2403.03507)
 * November 18 - CANCELLED -- Week of Supercomputing
 * November 25 - Amit - Prefix and Prompt Tuning [Prefix Tuning](https://arxiv.org/pdf/2101.00190) [Prompt Tuning](https://arxiv.org/pdf/2104.08691)
+* December 2 - Luke [Neural ODEs](https://arxiv.org/pdf/1806.07366) 
+* December 9 - Juliana [Atom Centered Neural Networks](https://journals-aps-org.ezproxy.lib.utexas.edu/prl/pdf/10.1103/PhysRevLett.98.146401) [Review Article](https://pubs.acs.org/doi/epdf/10.1021/acs.chemrev.0c00868?ref=article_openPDF)
+* December 16 - Skip for Christmas Holiday
