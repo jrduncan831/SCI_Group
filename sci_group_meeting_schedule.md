@@ -2,13 +2,14 @@
 
 ## 2025 
 * January 6 - Gabriel - Fine-Tuning Beyond Weights via [Multi-Agent System Tuning](https://arxiv.org/html/2402.16823v3), [Single Agent Tuning](https://arxiv.org/abs/2305.10601), [Prompt Tuning](https://arxiv.org/abs/2309.03409)
-* January 13 - Sikan TBD
+* January 13 - Sikan [SHAP](https://papers.nips.cc/paper_files/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf)
 * January 20 - MLK Holiday
 * January 27 - ML tutorial preparation meeting / introductions
 * February 3 - Amit Overview of LLM Serving Frameworks [vLLM](https://arxiv.org/abs/2309.06180), [ServerLessLLM](https://arxiv.org/abs/2401.14351)
 * February 10 - Luke TBD
 * February 17 - Juliana TBD
 * February 24 - Gabriel TBD
+* March 3 - Week of ML tutorial -- preparation meeting 
 
 # Upcoming SCI Events
 * March 5-6 Spring ML Tutorial (Virtual)
