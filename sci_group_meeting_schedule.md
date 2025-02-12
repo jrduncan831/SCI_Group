@@ -6,10 +6,13 @@
 * January 20 - MLK Holiday
 * January 27 - ML tutorial preparation meeting / introductions
 * February 3 - Amit Overview of LLM Serving Frameworks [vLLM](https://arxiv.org/abs/2309.06180), [ServerLessLLM](https://arxiv.org/abs/2401.14351)
-* February 10 - Luke TBD
-* February 17 - Juliana TBD
-* February 24 - Gabriel TBD
-* March 3 - Week of ML tutorial -- preparation meeting 
+* February 10 - Luke - Intro to Surogate Modelling
+* February 17 - Cancelled  
+* February 24 - Juliana TBD
+* March 3 - Week of ML tutorial -- preparation meeting
+* March 10 - Gabriel TBD
+* March 17 - Kaylee TBD
+* March 24 - Sikan TBD 
 
 # Upcoming SCI Events
 * March 5-6 Spring ML Tutorial (Virtual)
