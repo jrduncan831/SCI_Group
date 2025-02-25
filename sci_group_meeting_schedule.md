@@ -8,7 +8,7 @@
 * February 3 - Amit Overview of LLM Serving Frameworks [vLLM](https://arxiv.org/abs/2309.06180), [ServerLessLLM](https://arxiv.org/abs/2401.14351)
 * February 10 - Luke - Intro to Surogate Modelling
 * February 17 - Cancelled  
-* February 24 - Juliana TBD
+* February 24 - Juliana Neurosymbolic AI: [VQA](https://proceedings.neurips.cc/paper_files/paper/2018/file/5e388103a391daabe3de1d76a6739ccd-Paper.pdf) and [Neuro-vector-symbolic-architectures](https://proceedings.neurips.cc/paper_files/paper/2018/file/5e388103a391daabe3de1d76a6739ccd-Paper.pdf)
 * March 3 - Week of ML tutorial -- preparation meeting
 * March 10 - Gabriel TBD
 * March 17 - Kaylee TBD
