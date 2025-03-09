@@ -10,7 +10,7 @@
 * February 17 - Cancelled  
 * February 24 - Juliana Neurosymbolic AI: [VQA](https://proceedings.neurips.cc/paper_files/paper/2018/file/5e388103a391daabe3de1d76a6739ccd-Paper.pdf) and [Neuro-vector-symbolic-architectures](https://proceedings.neurips.cc/paper_files/paper/2018/file/5e388103a391daabe3de1d76a6739ccd-Paper.pdf)
 * March 3 - Week of ML tutorial -- preparation meeting
-* March 10 - Gabriel TBD
+* March 10 - Gabriel ARC-AGI [Paper](https://arxiv.org/abs/1911.01547)
 * March 17 - Kaylee TBD
 * March 24 - Sikan TBD 
 
