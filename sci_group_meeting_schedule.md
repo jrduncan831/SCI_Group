@@ -13,7 +13,11 @@
 * March 10 - Gabriel ARC-AGI [Paper](https://arxiv.org/abs/1911.01547)
 * March 17 - Kaylee TBD
 * March 24 - Sikan DeepSeek-V3 Technical Report [Report](https://arxiv.org/pdf/2412.19437v1)
-
+* March 31 - Cancelled
+* April 7 - Amit TBD
+* April 14 Luke TBD
+* April 21 Juliana TBD
+  
 # Upcoming SCI Events
 * March 5-6 Spring ML Tutorial (Virtual)
 * May 5-9 CosmicAI Bootcamp (In person)
