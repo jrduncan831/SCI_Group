@@ -14,9 +14,10 @@
 * March 17 - Kaylee TBD
 * March 24 - Sikan DeepSeek-V3 Technical Report [Report](https://arxiv.org/pdf/2412.19437v1)
 * March 31 - Cancelled
-* April 7 - Amit TBD
-* April 14 Luke TBD
-* April 21 Juliana TBD
+* April 7 - Niall Astronomy Data 101 +[Redshift Data](https://iopscience.iop.org/article/10.1088/0067-0049/214/2/24)
+* April 14 - Amit [Backpack Language Models](https://arxiv.org/abs/2305.16765)
+* April 21 Luke TBD
+* April 28 Juliana TBD
   
 # Upcoming SCI Events
 * March 5-6 Spring ML Tutorial (Virtual)
