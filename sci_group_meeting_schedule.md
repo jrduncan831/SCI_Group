@@ -16,8 +16,13 @@
 * March 31 - Cancelled
 * April 7 - Niall Astronomy Data 101 +[Redshift Data](https://iopscience.iop.org/article/10.1088/0067-0049/214/2/24)
 * April 14 - Amit [Backpack Language Models](https://arxiv.org/abs/2305.16765)
-* April 21 Luke TBD
-* April 28 Juliana TBD
+* April 21 Luke [Fourier Neural Operators](https://arxiv.org/pdf/2010.08895)
+* April 28 CosmicAI Bootcamp Prep Meeting
+* May 5 Cosmic AI Bootcamp
+* May 12 Cancelled
+* May 19 Gabriel TBD
+* May 26 Memorial Day: Cancelled
+* June 2 Juliana TBD
   
 # Upcoming SCI Events
 * March 5-6 Spring ML Tutorial (Virtual)
