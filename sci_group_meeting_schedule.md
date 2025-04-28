@@ -20,7 +20,7 @@
 * April 28 CosmicAI Bootcamp Prep Meeting
 * May 5 Cosmic AI Bootcamp
 * May 12 Cancelled
-* May 19 Gabriel TBD
+* May 19 Gabriel - [Structured Generation](https://dottxt-ai.github.io/outlines/latest/reference/generation/generation/) and AI command line helper demo
 * May 26 Memorial Day: Cancelled
 * June 2 Juliana TBD
   
