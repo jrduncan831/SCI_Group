@@ -22,7 +22,12 @@
 * May 12 Cancelled
 * May 19 Gabriel - [Structured Generation](https://dottxt-ai.github.io/outlines/latest/reference/generation/generation/) and AI Agent command line helper demo
 * May 26 Memorial Day: Cancelled
-* June 2 Juliana TBD
+* June 2 Juliana [Locating and Editing Factual Associations in GPT](https://rome.baulab.info/)
+* June 9 Juliana TBD
+* June 16 Luke TBD
+* June 23 Amit TBD
+* June 30 Sikan TBD
+* July 7 Gabriel TBD
   
 # Upcoming SCI Events
 * March 5-6 Spring ML Tutorial (Virtual)
