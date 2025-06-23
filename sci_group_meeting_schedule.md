@@ -1,6 +1,26 @@
 # SCI Group meeting schedule 
 
 ## 2025 
+* June 2 Juliana [Locating and Editing Factual Associations in GPT](https://rome.baulab.info/)
+* June 9 Juliana [Linearity of Relation Decoding in Transformer LMs](https://lre.baulab.info/)
+* June 16 Luke [Towards Foundational Models for Scientific ML](https://arxiv.org/pdf/2306.00258)
+* June 23 Cancelled
+* June 30 Sikan [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+* July 7 Amit TBD
+* July 14 ML Institute Prep meeting
+* July 21 ML Institute
+* July 28 Kaylee TBD
+* August 4 Gabriel TBD
+* August 11 Juliana TBD 
+* August 17 Luke TBD 
+  
+# Upcoming SCI Events
+* July 21-25 Summer ML Institute (In person)
+* October TBD Fall ML Tutorial 
+
+# Archived Talks
+
+## 2025 
 * January 6 - Gabriel - Fine-Tuning Beyond Weights via [Multi-Agent System Tuning](https://arxiv.org/html/2402.16823v3), [Single Agent Tuning](https://arxiv.org/abs/2305.10601), [Prompt Tuning](https://arxiv.org/abs/2309.03409)
 * January 13 - Sikan [SHAP](https://papers.nips.cc/paper_files/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf)
 * January 20 - MLK Holiday
@@ -22,20 +42,6 @@
 * May 12 Cancelled
 * May 19 Gabriel - [Structured Generation](https://dottxt-ai.github.io/outlines/latest/reference/generation/generation/) and AI Agent command line helper demo
 * May 26 Memorial Day: Cancelled
-* June 2 Juliana [Locating and Editing Factual Associations in GPT](https://rome.baulab.info/)
-* June 9 Juliana TBD
-* June 16 Luke TBD
-* June 23 Amit TBD
-* June 30 Sikan TBD
-* July 7 Gabriel TBD
-  
-# Upcoming SCI Events
-* March 5-6 Spring ML Tutorial (Virtual)
-* May 5-9 CosmicAI Bootcamp (In person)
-* July 21-25 Summer ML Institute (In person)
-* October TBD Fall ML Tutorial 
-
-# Archived Talks
 
 ## 2024
 
