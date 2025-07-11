@@ -10,9 +10,10 @@
 * July 14 ML Institute Prep meeting
 * July 21 ML Institute
 * July 28 Kaylee TBD
-* August 4 Gabriel TBD
-* August 11 Juliana TBD 
-* August 17 Luke TBD 
+* August 4 Vlad RAG System Case Study
+* August 11 Gabriel TBD 
+* August 18 Juliana TBD
+* August 25 Luke TBD
   
 # Upcoming SCI Events
 * July 21-25 Summer ML Institute (In person)
