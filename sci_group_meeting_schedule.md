@@ -3,8 +3,8 @@
 ## 2025 
 * August 4 Vlad RAG System Case Study
 * August 11 Kaylee TBD 
-* August 18 Gabriel TBD
-* August 25 Tomislav TBD
+* August 18 Tomislav TBD
+* August 25 Gabriel TBD
 * September 1 Labor Day -- Cancelled
 * September 8 Juliana
 * September 15 Luke 
