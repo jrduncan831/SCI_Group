@@ -3,11 +3,13 @@
 ## 2025 
 * August 4 Vlad RAG System Case Study
 * August 11 Kaylee TBD 
-* August 18 Tomislav TBD
-* August 25 Gabriel TBD
+* August 18 --
+* August 25 Tomislav
 * September 1 Labor Day -- Cancelled
-* September 8 Juliana
-* September 15 Luke 
+* September 8 Cancelled
+* September 15 Gabriel
+* September 22 Juliana
+* September 29 Luke 
   
 # Upcoming SCI Events
 * July 21-25 Summer ML Institute (In person)
