@@ -7,7 +7,7 @@
 * August 25 Tomislav
 * September 1 Labor Day -- Cancelled
 * September 8 Cancelled
-* September 15 Gabriel
+* September 15 Gabriel - AI coding tools discussion and paper on tracing LLM outputs back to source data using [OlMoTrace](https://arxiv.org/abs/2504.07096)
 * September 22 Juliana
 * September 29 Luke 
   
