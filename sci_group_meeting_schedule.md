@@ -8,12 +8,24 @@
 * September 1 Labor Day -- Cancelled
 * September 8 Cancelled
 * September 15 Gabriel - AI coding tools discussion and paper on tracing LLM outputs back to source data using [OlMoTrace](https://arxiv.org/abs/2504.07096)
-* September 22 Juliana
-* September 29 Luke 
+* September 22 TACCSTER - group coffee
+* September 29 Juliana - Evaluating Agentic Systems
+* October 6 Group Discussion
+* October 13 Cancelled - Fall Tutorial
+* October 20 Amit
+* October 27 Luke
+* November 3 Sikan
+* November 10 Gabriel
+* November 17 Cancelled - Supercomputing
+* November 24 Cancelled - Thanksgiving
+* December 1 Juliana
+* December 8 TBD
+* December 15 TBD
+* December 22 Cancelled - Holiday 
   
 # Upcoming SCI Events
-* July 21-25 Summer ML Institute (In person)
-* October TBD Fall ML Tutorial 
+* October 13-16 Fall ML Tutorial
+* Supercomputing November 15-21
 
 # Archived Talks
 
