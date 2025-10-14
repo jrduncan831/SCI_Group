@@ -1,18 +1,7 @@
 # SCI Group meeting schedule 
 
 ## 2025 
-* August 4 Vlad RAG System Case Study
-* August 11 Kaylee TBD 
-* August 18 --
-* August 25 Tomislav
-* September 1 Labor Day -- Cancelled
-* September 8 Cancelled
-* September 15 Gabriel - AI coding tools discussion and paper on tracing LLM outputs back to source data using [OlMoTrace](https://arxiv.org/abs/2504.07096)
-* September 22 TACCSTER - group coffee
-* September 29 Juliana - Evaluating Agentic Systems
-* October 6 Group Discussion
-* October 13 Cancelled - Fall Tutorial
-* October 20 Luke and Kaylee practice for AIXAmit
+* October 20 Luke and Kaylee practice for AIX
 * October 27 Amit 
 * November 3 Luke 
 * November 10 Sikan 
@@ -60,6 +49,17 @@
 * July 14 ML Institute Prep meeting
 * July 21 ML Institute
 * July 28 Cancelled
+* August 4 Vlad RAG System Case Study
+* August 11 Kaylee TBD 
+* August 18 --
+* August 25 Tomislav
+* September 1 Labor Day -- Cancelled
+* September 8 Cancelled
+* September 15 Gabriel - AI coding tools discussion and paper on tracing LLM outputs back to source data using [OlMoTrace](https://arxiv.org/abs/2504.07096)
+* September 22 TACCSTER - group coffee
+* September 29 Juliana - Evaluating Agentic Systems
+* October 6 Group Discussion
+* October 13 Cancelled - Fall Tutorial
 
 ## 2024
 
