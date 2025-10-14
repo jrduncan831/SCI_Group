@@ -12,14 +12,14 @@
 * September 29 Juliana - Evaluating Agentic Systems
 * October 6 Group Discussion
 * October 13 Cancelled - Fall Tutorial
-* October 20 Amit
-* October 27 Luke
-* November 3 Sikan
-* November 10 Gabriel
+* October 20 Luke and Kaylee practice for AIXAmit
+* October 27 Amit 
+* November 3 Luke 
+* November 10 Sikan 
 * November 17 Cancelled - Supercomputing
 * November 24 Cancelled - Thanksgiving
-* December 1 Juliana
-* December 8 TBD
+* December 1 Gabriel
+* December 8 Juliana 
 * December 15 TBD
 * December 22 Cancelled - Holiday 
   
