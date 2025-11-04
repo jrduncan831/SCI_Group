@@ -13,8 +13,8 @@
 * December 22 Cancelled - Holiday 
   
 # Upcoming SCI Events
-* October 13-16 Fall ML Tutorial
 * Supercomputing November 15-21
+* Summer Institute July 13-17
 
 # Archived Talks
 
