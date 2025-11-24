@@ -7,9 +7,9 @@
 * November 10 Sikan 
 * November 17 Cancelled - Supercomputing
 * November 24 Cancelled - Thanksgiving
-* December 1 Gabriel
-* December 8 Juliana 
-* December 15 TBD
+* December 1 Cancelled 
+* December 8 Gabriel 
+* December 15 Juliana
 * December 22 Cancelled - Holiday 
   
 # Upcoming SCI Events
