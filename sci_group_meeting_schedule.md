@@ -4,7 +4,7 @@
 * October 20 Luke and Kaylee practice for AIX
 * October 27 Amit 
 * November 3 Luke 
-* November 10 Sikan 
+* November 10 Sikan [Context Rot](https://research.trychroma.com/context-rot)
 * November 17 Cancelled - Supercomputing
 * November 24 Cancelled - Thanksgiving
 * December 1 Cancelled 
