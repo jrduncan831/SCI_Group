@@ -8,7 +8,7 @@
 * November 17 Cancelled - Supercomputing
 * November 24 Cancelled - Thanksgiving
 * December 1 Cancelled 
-* December 8 Gabriel 
+* December 8 Gabriel - Agent Dynamic Error Correction - [Unit Tests](https://arxiv.org/abs/2510.17109), [Thought Anchors](https://arxiv.org/abs/2506.19143), [Checkpointing](https://arxiv.org/abs/2510.05556)
 * December 15 Juliana
 * December 22 Cancelled - Holiday 
   
