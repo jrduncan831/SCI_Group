@@ -10,7 +10,17 @@
 * December 1 Cancelled 
 * December 8 Gabriel - Agent Dynamic Error Correction - [Unit Tests](https://arxiv.org/abs/2510.17109), [Thought Anchors](https://arxiv.org/abs/2506.19143), [Checkpointing](https://arxiv.org/abs/2510.05556)
 * December 15 Juliana
-* December 22 Cancelled - Holiday 
+* December 22 Cancelled - Holiday
+
+## 2026
+* January 5th Cancel? 
+* January 12th Amit
+* January 19th MLK day
+* January 26th Luke
+* February 2nd Sikan
+* February 9th Gabriel
+* Februay 16th Juliana
+* February 23rd Cancelled 
   
 # Upcoming SCI Events
 * Supercomputing November 15-21
