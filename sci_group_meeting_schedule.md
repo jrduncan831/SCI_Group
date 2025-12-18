@@ -9,18 +9,19 @@
 * November 24 Cancelled - Thanksgiving
 * December 1 Cancelled 
 * December 8 Gabriel - Agent Dynamic Error Correction - [Unit Tests](https://arxiv.org/abs/2510.17109), [Thought Anchors](https://arxiv.org/abs/2506.19143), [Checkpointing](https://arxiv.org/abs/2510.05556)
-* December 15 Juliana
+* December 15 Juliana Evaluating Medical LLM Apps [Benchmarking RAGs for Medicine](https://teddy-xionggz.github.io/benchmark-medical-rag/), [HealthBench](https://arxiv.org/pdf/2505.08775), [SDBench](https://arxiv.org/pdf/2506.22405), [AgentClinic](https://arxiv.org/pdf/2405.07960)
 * December 22 Cancelled - Holiday
 
 ## 2026
-* January 5th Cancel? 
-* January 12th Amit
+* January 5th Discuss 2026 Goals 
+* January 12th Kaylee
 * January 19th MLK day
-* January 26th Luke
-* February 2nd Sikan
-* February 9th Gabriel
-* Februay 16th Juliana
-* February 23rd Cancelled 
+* January 26th Amit
+* February 2nd Luke
+* February 9th Sikan
+* February 16th Gabriel
+* February 23rd Cancelled
+* March 2nd Juliana 
   
 # Upcoming SCI Events
 * Supercomputing November 15-21
