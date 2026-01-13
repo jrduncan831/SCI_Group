@@ -57,7 +57,7 @@
 * September 8 Cancelled
 * September 15 Gabriel - AI coding tools discussion and paper on tracing LLM outputs back to source data using [OlMoTrace](https://arxiv.org/abs/2504.07096)
 * September 22 TACCSTER - group coffee
-* September 29 Juliana - Evaluating Agentic Systems
+* September 29 Juliana - Evaluating Agentic Systems [Why multi agent systems fail?](https://arxiv.org/pdf/2503.13657) + Survey on Agentic benchmarks -- See [Slide deck](https://docs.google.com/presentation/d/1yNcBbdVp9VLyyxZnRJC-CIpYlHuk0f8Y33vXl6StDQc/edit?slide=id.g38d0089afd7_0_47#slide=id.g38d0089afd7_0_47)
 * October 6 Group Discussion
 * October 13 Cancelled - Fall Tutorial
 * October 20 Luke and Kaylee practice for AIX
