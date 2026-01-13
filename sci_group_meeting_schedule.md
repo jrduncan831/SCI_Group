@@ -1,17 +1,5 @@
 # SCI Group meeting schedule 
 
-## 2025 
-* October 20 Luke and Kaylee practice for AIX
-* October 27 Amit 
-* November 3 Luke 
-* November 10 Sikan [Context Rot](https://research.trychroma.com/context-rot)
-* November 17 Cancelled - Supercomputing
-* November 24 Cancelled - Thanksgiving
-* December 1 Cancelled 
-* December 8 Gabriel - Agent Dynamic Error Correction - [Unit Tests](https://arxiv.org/abs/2510.17109), [Thought Anchors](https://arxiv.org/abs/2506.19143), [Checkpointing](https://arxiv.org/abs/2510.05556)
-* December 15 Juliana Evaluating Medical LLM Apps [Benchmarking RAGs for Medicine](https://teddy-xionggz.github.io/benchmark-medical-rag/), [HealthBench](https://arxiv.org/pdf/2505.08775), [SDBench](https://arxiv.org/pdf/2506.22405), [AgentClinic](https://arxiv.org/pdf/2405.07960)
-* December 22 Cancelled - Holiday
-
 ## 2026
 * January 5th Discuss 2026 Goals 
 * January 12th Kaylee
@@ -23,9 +11,10 @@
 * February 23rd Cancelled
 * March 2nd Juliana 
   
-# Upcoming SCI Events
-* Supercomputing November 15-21
+## Upcoming SCI Events 2026
+* Cosmic AI Bootcamp June 1-5
 * Summer Institute July 13-17
+* PEARC July 26-30
 
 # Archived Talks
 
@@ -71,6 +60,16 @@
 * September 29 Juliana - Evaluating Agentic Systems
 * October 6 Group Discussion
 * October 13 Cancelled - Fall Tutorial
+* October 20 Luke and Kaylee practice for AIX
+* October 27 Amit 
+* November 3 Luke 
+* November 10 Sikan [Context Rot](https://research.trychroma.com/context-rot)
+* November 17 Cancelled - Supercomputing
+* November 24 Cancelled - Thanksgiving
+* December 1 Cancelled 
+* December 8 Gabriel - Agent Dynamic Error Correction - [Unit Tests](https://arxiv.org/abs/2510.17109), [Thought Anchors](https://arxiv.org/abs/2506.19143), [Checkpointing](https://arxiv.org/abs/2510.05556)
+* December 15 Juliana Evaluating Medical LLM Apps [Benchmarking RAGs for Medicine](https://teddy-xionggz.github.io/benchmark-medical-rag/), [HealthBench](https://arxiv.org/pdf/2505.08775), [SDBench](https://arxiv.org/pdf/2506.22405), [AgentClinic](https://arxiv.org/pdf/2405.07960)
+* December 22 Cancelled - Holiday
 
 ## 2024
 
