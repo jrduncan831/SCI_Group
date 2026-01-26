@@ -4,14 +4,18 @@
 * January 5th Discuss 2026 Goals 
 * January 12th Kaylee
 * January 19th MLK day
-* January 26th Amit
-* February 2nd Luke
-* February 9th Sikan
-* February 16th Gabriel
+* January 26th Cancelled for winter storm
+* February 2nd Amit 
+* February 9th Luke 
+* February 16th Sikan 
 * February 23rd Cancelled
-* March 2nd Juliana 
+* March 2nd Gabriel
+* March 9th Juliana
+* March 16th Tutorial Prep
+* March 23rd Cancelled for Spring Tutorial
   
 ## Upcoming SCI Events 2026
+* Machine Learning Tutorial March 23-24
 * Cosmic AI Bootcamp June 1-5
 * Summer Institute July 13-17
 * PEARC July 26-30
