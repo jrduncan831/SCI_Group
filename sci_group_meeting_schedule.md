@@ -5,14 +5,15 @@
 * January 12th Kaylee
 * January 19th MLK day
 * January 26th Cancelled for winter storm
-* February 2nd Amit 
-* February 9th Luke 
-* February 16th Sikan 
+* February 2nd Tutorial planning  
+* February 9th Amit  
+* February 16th Luke  
 * February 23rd Cancelled
-* March 2nd Gabriel
-* March 9th Juliana
+* March 2nd Sikan 
+* March 9th Gabriel 
 * March 16th Tutorial Prep
 * March 23rd Cancelled for Spring Tutorial
+* March 30th Juliana 
   
 ## Upcoming SCI Events 2026
 * Machine Learning Tutorial March 23-24
