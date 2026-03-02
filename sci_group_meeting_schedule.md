@@ -7,7 +7,8 @@
 * March 23rd Cancelled for Spring Tutorial
 * March 30th Gabriel
 * April 6th Juliana
-* April 13th Amit  
+* April 13th Amit
+* April 20th Luke
   
 ## Upcoming SCI Events 2026
 * Machine Learning Tutorial March 23-24
