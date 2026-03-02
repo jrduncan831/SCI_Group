@@ -1,19 +1,13 @@
 # SCI Group meeting schedule 
 
 ## 2026
-* January 5th Discuss 2026 Goals 
-* January 12th Kaylee
-* January 19th MLK day
-* January 26th Cancelled for winter storm
-* February 2nd Tutorial planning  
-* February 9th Amit  
-* February 16th Luke  
-* February 23rd Cancelled
-* March 2nd Sikan 
-* March 9th Gabriel 
+* March 2nd Luke 
+* March 9th Sikan 
 * March 16th Tutorial Prep
 * March 23rd Cancelled for Spring Tutorial
-* March 30th Juliana 
+* March 30th Gabriel
+* April 6th Juliana
+* April 13th Amit  
   
 ## Upcoming SCI Events 2026
 * Machine Learning Tutorial March 23-24
@@ -22,6 +16,16 @@
 * PEARC July 26-30
 
 # Archived Talks
+
+## 2026
+* January 5th Discuss 2026 Goals 
+* January 12th Kaylee
+* January 19th MLK day
+* January 26th Cancelled for winter storm
+* February 2nd Tutorial planning  
+* February 9th Cancelled  
+* February 16th Cancelled  
+* February 23rd Cancelled
 
 ## 2025 
 * January 6 - Gabriel - Fine-Tuning Beyond Weights via [Multi-Agent System Tuning](https://arxiv.org/html/2402.16823v3), [Single Agent Tuning](https://arxiv.org/abs/2305.10601), [Prompt Tuning](https://arxiv.org/abs/2309.03409)
