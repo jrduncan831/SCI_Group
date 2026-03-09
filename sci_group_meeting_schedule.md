@@ -2,7 +2,7 @@
 
 ## 2026
 * March 2nd Luke 
-* March 9th Sikan 
+* March 9th Sikan [VaultGemma: A Differentially Private Gemma Model](https://arxiv.org/pdf/2510.15001)
 * March 16th Tutorial Prep
 * March 23rd Cancelled for Spring Tutorial
 * March 30th Gabriel
