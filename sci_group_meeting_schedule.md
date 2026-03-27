@@ -5,7 +5,7 @@
 * March 9th Sikan [VaultGemma](https://arxiv.org/pdf/2510.15001)
 * March 16th Tutorial Prep
 * March 23rd Cancelled for Spring Tutorial
-* March 30th Gabriel
+* March 30th Gabriel - Advancements in Image Generation Models [FLUX.1 Kontext Paper](https://arxiv.org/pdf/2506.15742)
 * April 6th Juliana
 * April 13th Amit
 * April 20th Luke
