@@ -8,9 +8,10 @@
 * March 30th Gabriel - Advancements in Image Generation Models [FLUX.1 Kontext Paper](https://arxiv.org/pdf/2506.15742)
 * April 6th Juliana - [ChemGraph](https://www.nature.com/articles/s42004-025-01776-9)
 * April 13th Amit
-* April 20th Luke
-* April 27th Sikan
-* May 4th - Jixian first day + COSMIC AI Planning
+* April 20th Cancelled
+* April 27th Luke 
+* May 4th - Sikan
+          - Jixian first day + COSMIC AI Planning
 * May 11th - Gabriel 
 * May 18th - Juliana 
 * May 25th - Cosmic AI Prep meeting
