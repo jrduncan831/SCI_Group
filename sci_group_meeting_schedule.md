@@ -10,7 +10,7 @@
 * April 13th Amit
 * April 20th Cancelled
 * April 27th Luke 
-* May 4th - Sikan
+* May 4th - Sikan - [SPIN](https://arxiv.org/pdf/2401.01335) [SPPO](https://arxiv.org/pdf/2405.00675)
           - Jixian first day + COSMIC AI Planning
 * May 11th - Gabriel 
 * May 18th - Juliana 
