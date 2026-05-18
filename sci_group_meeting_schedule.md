@@ -13,10 +13,12 @@
 * May 4th - Sikan - [SPIN](https://arxiv.org/pdf/2401.01335) [SPPO](https://arxiv.org/pdf/2405.00675)
           - Jixian first day + COSMIC AI Planning
 * May 11th - Gabriel -  [Towards a Science of AI Agent Reliability](https://arxiv.org/abs/2602.16666)
-* May 18th - Juliana 
-* May 25th - Cosmic AI Prep meeting
+* May 18th - Cancelled 
+* May 25th - Memorial Day
 * June 1st - Cancelled (Cosmic AI Bootcamp)
-* June 8th - TBD
+* June 8th - Justin Drake - RAGflow
+* June 15th - Jixian
+* June 22nd - Juliana 
   
 ## Upcoming SCI Events 2026
 * Machine Learning Tutorial March 23-24
