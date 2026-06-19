@@ -13,7 +13,7 @@
 * August 10th - Luke
 * August 17th - Sikan
 * August 24th - Juliana 
-* August 31st - Gabrel 
+* August 31st - Gabriel 
 * September 7th - Labor Day
 * September 14th - Jixian 
 * September 21st - CANCELLED for TACCSTER 
