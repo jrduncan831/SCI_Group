@@ -1,6 +1,39 @@
 # SCI Group meeting schedule 
 
 ## 2026
+* June 8th - Justin Drake - [RAGflow](https://ragflow.io/)
+* June 15th - Jixian - 
+* June 22nd - Juliana (Future event prep)
+* June 29th - Juliana
+* July 6th - Amit
+* July 13th - Luke 
+* July 20th - ML Institute and/or PEARC prep
+* July 27th - Cancelled for PEARC
+* August 3rd - PEARC debrief
+* August 10th - Sikan
+* August 17th - Gabriel
+* August 24th - Juliana 
+* August 31st - Jixian
+* September 7th - Labor Day
+* September 14th - TBD
+* September 21st - CANCELLED for TACCSTER 
+  
+## Upcoming SCI Events 2026
+* Summer Institute July 20-24
+* PEARC July 26-30
+* TACCSTER September 21-22
+
+# Archived Talks
+
+## 2026
+* January 5th Discuss 2026 Goals 
+* January 12th Kaylee
+* January 19th MLK day
+* January 26th Cancelled for winter storm
+* February 2nd Tutorial planning  
+* February 9th Cancelled  
+* February 16th Cancelled  
+* February 23rd Cancelled
 * March 2nd Luke 
 * March 9th Sikan [VaultGemma](https://arxiv.org/pdf/2510.15001)
 * March 16th Tutorial Prep
@@ -16,27 +49,6 @@
 * May 18th - Cancelled 
 * May 25th - Memorial Day
 * June 1st - Cancelled (Cosmic AI Bootcamp)
-* June 8th - Justin Drake - RAGflow
-* June 15th - Jixian
-* June 22nd - Juliana 
-  
-## Upcoming SCI Events 2026
-* Machine Learning Tutorial March 23-24
-* Cosmic AI Bootcamp June 1-5
-* Summer Institute July 13-17
-* PEARC July 26-30
-
-# Archived Talks
-
-## 2026
-* January 5th Discuss 2026 Goals 
-* January 12th Kaylee
-* January 19th MLK day
-* January 26th Cancelled for winter storm
-* February 2nd Tutorial planning  
-* February 9th Cancelled  
-* February 16th Cancelled  
-* February 23rd Cancelled
 
 ## 2025 
 * January 6 - Gabriel - Fine-Tuning Beyond Weights via [Multi-Agent System Tuning](https://arxiv.org/html/2402.16823v3), [Single Agent Tuning](https://arxiv.org/abs/2305.10601), [Prompt Tuning](https://arxiv.org/abs/2309.03409)
