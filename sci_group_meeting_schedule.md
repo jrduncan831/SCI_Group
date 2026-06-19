@@ -2,20 +2,20 @@
 
 ## 2026
 * June 8th - Justin Drake - [RAGflow](https://ragflow.io/)
-* June 15th - Jixian - 
+* June 15th - Jixian  
 * June 22nd - Juliana (Future event prep)
 * June 29th - Juliana
-* July 6th - Amit
-* July 13th - Luke 
+* July 6th - TBD
+* July 13th - Amit 
 * July 20th - ML Institute and/or PEARC prep
 * July 27th - Cancelled for PEARC
 * August 3rd - PEARC debrief
-* August 10th - Sikan
-* August 17th - Gabriel
+* August 10th - Luke
+* August 17th - Sikan
 * August 24th - Juliana 
-* August 31st - Jixian
+* August 31st - Gabrel 
 * September 7th - Labor Day
-* September 14th - TBD
+* September 14th - Jixian 
 * September 21st - CANCELLED for TACCSTER 
   
 ## Upcoming SCI Events 2026
