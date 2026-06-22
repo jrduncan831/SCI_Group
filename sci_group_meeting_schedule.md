@@ -5,7 +5,7 @@
 * June 15th - Jixian  
 * June 22nd - Juliana (Future event prep)
 * June 29th - Juliana
-* July 6th - TBD
+* July 6th - Vlad
 * July 13th - Amit 
 * July 20th - ML Institute and/or PEARC prep
 * July 27th - Cancelled for PEARC
