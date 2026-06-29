@@ -4,7 +4,7 @@
 * June 8th - Justin Drake - [RAGflow](https://ragflow.io/)
 * June 15th - Jixian  
 * June 22nd - Juliana (Future event prep)
-* June 29th - Juliana
+* June 29th - Juliana RAG benchmarks: [FRAMES](https://aclanthology.org/2025.naacl-long.243.pdf) and [BEIR](https://arxiv.org/abs/2104.08663)
 * July 6th - Vlad
 * July 13th - Amit 
 * July 20th - ML Institute and/or PEARC prep
