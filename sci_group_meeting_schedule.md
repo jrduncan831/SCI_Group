@@ -9,8 +9,8 @@
 * July 13th - Amit 
 * July 20th - ML Institute and/or PEARC prep
 * July 27th - Cancelled for PEARC
-* August 3rd - PEARC debrief
-* August 10th - Luke
+* August 3rd - Sara
+* August 10th - Luke and/or PEARC debrief
 * August 17th - Sikan
 * August 24th - Juliana 
 * August 31st - Gabriel 
