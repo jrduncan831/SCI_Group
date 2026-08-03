@@ -10,9 +10,9 @@
 * July 20th - ML Institute and/or PEARC prep
 * July 27th - Cancelled for PEARC
 * August 3rd - Anna [Thinking Critically About Algorithms for Automated Detection of Behavior: 11 Guidelines for Social and Behavioral Scientists](https://onlinelibrary.wiley.com/doi/full/10.1111/desc.70144) + her recent work
-* August 10th - Luke and/or PEARC debrief
-* August 17th - Sikan
-* August 24th - Juliana 
+* August 10th - PEARC debrief
+* August 17th - Luke
+* August 24th - Sikan 
 * August 31st - Gabriel 
 * September 7th - Labor Day
 * September 14th - Jixian 
