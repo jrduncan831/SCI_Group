@@ -1,14 +1,6 @@
 # SCI Group meeting schedule 
 
 ## 2026
-* June 8th - Justin Drake - [RAGflow](https://ragflow.io/)
-* June 15th - Jixian  
-* June 22nd - Juliana (Future event prep)
-* June 29th - Juliana RAG benchmarks: [FRAMES](https://aclanthology.org/2025.naacl-long.243.pdf) and [BEIR](https://arxiv.org/abs/2104.08663)
-* July 6th - Vlad
-* July 13th - Amit 
-* July 20th - ML Institute and/or PEARC prep
-* July 27th - Cancelled for PEARC
 * August 3rd - Anna [Thinking Critically About Algorithms for Automated Detection of Behavior: 11 Guidelines for Social and Behavioral Scientists](https://onlinelibrary.wiley.com/doi/full/10.1111/desc.70144) + her recent work
 * August 10th - PEARC debrief
 * August 17th - Luke
@@ -16,12 +8,25 @@
 * August 31st - Gabriel 
 * September 7th - Labor Day
 * September 14th - Jixian 
-* September 21st - CANCELLED for TACCSTER 
+* September 21st - CANCELLED for TACCSTER
+* September 28th - Amit 
+* October 5th - Luke 
+* October 12th - Sikan
+* October 19th - Gabriel
+* October 26th - Jixian
+* ...
+* November 16th - cancelled for SC
+* November 23rd - Thanksgiving week 
   
 ## Upcoming SCI Events 2026
-* Summer Institute July 20-24
-* PEARC July 26-30
 * TACCSTER September 21-22
+* Fall ML tutorial TBD
+* Supercomputing 26 November 15-20
+
+## Upcoming SCI Events 2027
+* CosmicAI Bootcamp TBD 
+* [PEARC 27](https://pearc.acm.org/pearc27/) July 11-15
+* Summer ML Institute tentatively July 26th - July 30th 
 
 # Archived Talks
 
@@ -49,6 +54,14 @@
 * May 18th - Cancelled 
 * May 25th - Memorial Day
 * June 1st - Cancelled (Cosmic AI Bootcamp)
+* June 8th - Justin Drake - [RAGflow](https://ragflow.io/)
+* June 15th - Jixian  
+* June 22nd - Juliana (Future event prep)
+* June 29th - Juliana RAG benchmarks: [FRAMES](https://aclanthology.org/2025.naacl-long.243.pdf) and [BEIR](https://arxiv.org/abs/2104.08663)
+* July 6th - Vlad
+* July 13th - Amit 
+* July 20th - ML Institute and/or PEARC prep
+* July 27th - Cancelled for PEARC
 
 ## 2025 
 * January 6 - Gabriel - Fine-Tuning Beyond Weights via [Multi-Agent System Tuning](https://arxiv.org/html/2402.16823v3), [Single Agent Tuning](https://arxiv.org/abs/2305.10601), [Prompt Tuning](https://arxiv.org/abs/2309.03409)
