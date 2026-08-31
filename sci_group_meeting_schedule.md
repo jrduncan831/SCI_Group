@@ -5,7 +5,7 @@
 * August 10th - PEARC debrief
 * August 17th - Luke
 * August 24th - Sikan  [GraphRAG](https://arxiv.org/pdf/2404.16130), [LightRAG](https://arxiv.org/pdf/2410.05779), [HippoRAG](https://arxiv.org/pdf/2405.14831)
-* August 31st - Gabriel 
+* August 31st - Gabriel [LLM AutoML: Interpretable Classification using Textual Bottleneck Models](https://arxiv.org/abs/2310.19660)
 * September 7th - Labor Day
 * September 14th - Jixian 
 * September 21st - CANCELLED for TACCSTER
