@@ -1,11 +1,12 @@
 # SCI Group meeting schedule 
 
 ## 2026
-* Oct 5th - Amit
+* October 5th - Amit
 * October 12th - Luke
 * October 19th - Sikan
 * October 26th - Gabriel
 * November 2nd - Jixian
+* November 9th - Vlad
 * ...
 * November 16th - cancelled for SC
 * November 23rd - Thanksgiving week 
