@@ -1,19 +1,11 @@
 # SCI Group meeting schedule 
 
 ## 2026
-* August 3rd - Anna [Thinking Critically About Algorithms for Automated Detection of Behavior: 11 Guidelines for Social and Behavioral Scientists](https://onlinelibrary.wiley.com/doi/full/10.1111/desc.70144) + her recent work
-* August 10th - PEARC debrief
-* August 17th - Luke
-* August 24th - Sikan  [GraphRAG](https://arxiv.org/pdf/2404.16130), [LightRAG](https://arxiv.org/pdf/2410.05779), [HippoRAG](https://arxiv.org/pdf/2405.14831)
-* August 31st - Gabriel [LLM AutoML: Interpretable Classification using Textual Bottleneck Models](https://arxiv.org/abs/2310.19660)
-* September 7th - Labor Day
-* September 14th - Jixian 
-* September 21st - CANCELLED for TACCSTER
 * Oct 5th - Amit
 * October 12th - Luke
-* October 19 - Sikan
-* October 26 - Gabriel
-* November 2 - Jixian
+* October 19th - Sikan
+* October 26th - Gabriel
+* November 2nd - Jixian
 * ...
 * November 16th - cancelled for SC
 * November 23rd - Thanksgiving week 
@@ -62,6 +54,14 @@
 * July 13th - Amit 
 * July 20th - ML Institute and/or PEARC prep
 * July 27th - Cancelled for PEARC
+* August 3rd - Anna [Thinking Critically About Algorithms for Automated Detection of Behavior: 11 Guidelines for Social and Behavioral Scientists](https://onlinelibrary.wiley.com/doi/full/10.1111/desc.70144) + her recent work
+* August 10th - PEARC debrief
+* August 17th - Luke
+* August 24th - Sikan  [GraphRAG](https://arxiv.org/pdf/2404.16130), [LightRAG](https://arxiv.org/pdf/2410.05779), [HippoRAG](https://arxiv.org/pdf/2405.14831)
+* August 31st - Gabriel [LLM AutoML: Interpretable Classification using Textual Bottleneck Models](https://arxiv.org/abs/2310.19660)
+* September 7th - Labor Day
+* September 14th - Jixian updates on the [HPC GPT](https://hpcgpt.tacc.utexas.edu/) (use TACC VPN). Discussion of next step
+* September 21st - CANCELLED for TACCSTER
 
 ## 2025 
 * January 6 - Gabriel - Fine-Tuning Beyond Weights via [Multi-Agent System Tuning](https://arxiv.org/html/2402.16823v3), [Single Agent Tuning](https://arxiv.org/abs/2305.10601), [Prompt Tuning](https://arxiv.org/abs/2309.03409)
