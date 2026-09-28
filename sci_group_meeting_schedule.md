@@ -9,11 +9,11 @@
 * September 7th - Labor Day
 * September 14th - Jixian 
 * September 21st - CANCELLED for TACCSTER
-* September 28th - Amit 
-* October 5th - Luke 
-* October 12th - Sikan
-* October 19th - Gabriel
-* October 26th - Jixian
+* Oct 5th - Amit
+* October 12th - Luke
+* October 19 - Sikan
+* October 26 - Gabriel
+* November 2 - Jixian
 * ...
 * November 16th - cancelled for SC
 * November 23rd - Thanksgiving week 
