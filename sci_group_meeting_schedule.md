@@ -4,7 +4,7 @@
 * October 5th - Amit
 * October 12th - skipped
 * October 19th - Luke
-* October 26th - Sikan
+* October 26th - Sikan[ThinkPRM](https://arxiv.org/pdf/2504.16828)
 * November 2nd - Gabriel
 * November 9th - Vlad
 * ...
