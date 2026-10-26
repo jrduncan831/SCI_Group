@@ -2,10 +2,10 @@
 
 ## 2026
 * October 5th - Amit
-* October 12th - Luke
-* October 19th - Sikan
-* October 26th - Gabriel
-* November 2nd - Jixian
+* October 12th - skipped
+* October 19th - Luke
+* October 26th - Sikan
+* November 2nd - Gabriel
 * November 9th - Vlad
 * ...
 * November 16th - cancelled for SC
